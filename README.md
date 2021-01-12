@@ -27,6 +27,7 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 <code><img height="25" src="https://static.javatpoint.com/intellij-idea/images/intellij-idea-tutorial.png"></code>
 
 <br/>
+<br>
 ![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
 
 ## view me on 
