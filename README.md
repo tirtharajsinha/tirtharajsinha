@@ -28,9 +28,10 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 
 <br/>
 <br>
-![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
 
 ## view me on 
+![github](https://img.shields.io/badge/-github?style=for-the-badge&logo=githubt&logoColor=white&link=https://tirtharajsinha.github.io/webfiles/portfolio_v2.0/")
+![portfolio](https://img.shields.io/badge/instagram?style=for-the-badge&logo=githubt&logoColor=white&link=https://tirtharajsinha.github.io/webfiles/portfolio_v2.0/)
 <a href="https://tirtharajsinha.github.io/webfiles/portfolio_v2.0/"> Portfolio </a><hr>
 <a href="https://github.com/tirtharajsinha"> github </a><hr>
 <a href="https://instagram.com/tirtharaj_sinha"> instagram </a><hr>
