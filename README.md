@@ -35,3 +35,4 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 <a href="https://instagram.com/tirtharaj_sinha"> instagram </a><hr>
 
 
+![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
