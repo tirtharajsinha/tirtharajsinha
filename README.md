@@ -1,4 +1,4 @@
-<p align="center"><img src="github_profile_banner.jpg" alt="Tirtharaj Sinha github banner" border="0"></p>
+<p align="center"><img src="wp3082255.jpg" alt="Tirtharaj Sinha github banner" border="0"></p>
 Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineering student from University of Engineering & Management .<br>
 [dart] Full stack Web developer || Python programmer || mechine learning || computer vision || AI <br>
 <img src="https://icons-for-free.com/iconfiles/png/512/github+logo+social+icon-1320168541937168864.png" height="32px" width="32px"> Open-Source Contributor<br>
@@ -19,17 +19,17 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="25" src="https://static.techspot.com/images2/downloads/topdownload/2014/05/phpMyAdmin.png"></code><br/><br>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom .png"></code>
+<code><img height="25" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png"></code>
 <code><img height="25" src="https://static.javatpoint.com/intellij-idea/images/intellij-idea-tutorial.png"></code>
 
 <br/>
-[![git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/tirtharajsinha)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/tirtharajsinha)
+[![git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/tirtharajsinha)](https://github.com/tirtharajsinha)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/tirtharajsinha)](https://github.com/tirtharajsinha)
 
 ## view me on 
-<a href="https://tirtharajsinha.github.io/webfiles/portfolio_v2.0/"> Portfolio </a><hr><br>
-<a href="https://github.com/tirtharajsinha"> github </a><hr><br>
-<a href="https://instagram.com/tirtharaj_sinha"> instagram </a><hr><br>
+<a href="https://tirtharajsinha.github.io/webfiles/portfolio_v2.0/"> Portfolio </a><hr>
+<a href="https://github.com/tirtharajsinha"> github </a><hr>
+<a href="https://instagram.com/tirtharaj_sinha"> instagram </a><hr>
 
 
