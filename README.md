@@ -2,7 +2,10 @@
 Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineering student from University of Engineering & Management .<br>
 [dart] Full stack Web developer || Python programmer || mechine learning || computer vision || AI <br>
 <img src="https://icons-for-free.com/iconfiles/png/512/github+logo+social+icon-1320168541937168864.png" height="32px" width="32px"> Open-Source Contributor<br>
-[![My github stats](https://github-readme-stats.vercel.app/api?username=tirtharajsinha)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+<br>
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=tirtharajsinha&show_icons=true&theme=tokyonight" />
+
 
 ## my weapons
 <br/>
