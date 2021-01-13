@@ -1,6 +1,6 @@
 <p align="center"><img src="wp3082255.jpg" alt="Tirtharaj Sinha github banner" border="0"></p>
 Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineering student from University of Engineering & Management .<br>
-[dart] Full stack Web developer || Python programmer || mechine learning || computer vision || AI <br>
+-:dart: Full stack Web developer || Python programmer || mechine learning || computer vision || AI <br>
 <img src="https://icons-for-free.com/iconfiles/png/512/github+logo+social+icon-1320168541937168864.png" height="32px" width="32px"> Open-Source Contributor<br>
 
 <br>
@@ -31,6 +31,6 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 
 ## view me on 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/tirtharajsinha)](https://github.com/hritik5102) <hr>
-[![Instagram](https://img.shields.io/static/v1?style=flat&color=pink&link=https://instagram.com/tirtharaj_sinha)](https://instagram.com/tirtharaj_sinha) <hr>
+<a href="https://instagram.com/tirtharaj_sinha">Instagram</a>
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/tirtharajsinha)](https://github.com/tirtharajsinha)<hr>
 
