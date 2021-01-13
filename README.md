@@ -4,8 +4,12 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 <img src="https://icons-for-free.com/iconfiles/png/512/github+logo+social+icon-1320168541937168864.png" height="32px" width="32px"> Open-Source Contributor<br>
 
 <br>
+<p align = "center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=tirtharajsinha&show_icons=true&theme=tokyonight" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&hide=css,java,html&theme=radical">
+  </p>
 <a href="https://gitstats.me/tirtharajsinha">View my complete git status</a>
+
 
 ## my weapons
 <br/>
@@ -29,9 +33,8 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 <br/>
 <br>
 
-## view me on 
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/tirtharajsinha)](https://github.com/hritik5102) <hr>
-<a href="https://instagram.com/tirtharaj_sinha">Instagram</a><hr>
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/tirtharajsinha)](https://github.com/tirtharajsinha)<hr>
 [![instagram](https://img.shields.io/badge/-tirtharajsinha-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tirtharaj_sinha/")](https://instagram.com/tirtharaj_sinha)<hr>
 [![Gmail](https://img.shields.io/badge/-tirtharajsinha-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinhatirtharaj@gmail.com")](mailto:sinhatirtharaj@gmail.com)<hr>
