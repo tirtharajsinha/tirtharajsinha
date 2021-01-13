@@ -6,7 +6,7 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 <br>
 <p align = "center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=tirtharajsinha&show_icons=true&theme=tokyonight" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&hide=css,java,html&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?tirtharajsinha&theme=radical">
   </p>
 <a href="https://gitstats.me/tirtharajsinha">View my complete git status</a>
 
