@@ -31,6 +31,7 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 <code><img height="25" src="https://static.javatpoint.com/intellij-idea/images/intellij-idea-tutorial.png"></code>
 
 <br/>
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <br>
 
 
