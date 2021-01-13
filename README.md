@@ -31,6 +31,6 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 
 ## view me on 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/tirtharajsinha)](https://github.com/hritik5102) <hr>
-<a href="https://instagram.com/tirtharaj_sinha">Instagram</a>
+<a href="https://instagram.com/tirtharaj_sinha">Instagram</a><hr>
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/tirtharajsinha)](https://github.com/tirtharajsinha)<hr>
 
