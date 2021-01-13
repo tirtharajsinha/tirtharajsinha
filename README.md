@@ -5,7 +5,7 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 
 <br>
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=tirtharajsinha&show_icons=true&theme=tokyonight" />
-
+<a href="https://gitstats.me/tirtharajsinha">View my complete git status</a>
 
 ## my weapons
 <br/>
