@@ -42,7 +42,7 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 <h3>tools</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
-<code><img height="40" src="http://assets.stickpng.com/images/58481537cef1014c0b5e4968.png"></code>
+<code><img height="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-3a29ffd5-4e85-4123-88cc-4e948bedd7c1.png/v1/fill/w_512,h_512,strp/honeycomb_icon_pycharm_by_mauriliosm_dccudp7-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kY2N1ZHA3LTNhMjlmZmQ1LTRlODUtNDEyMy04OGNjLTRlOTQ4YmVkZDdjMS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8m13Ix9vFqKMv4e8HDJ8t4aVjP1dgqSSw9Uh4pIiBdE"></code>
 <code><img height="40" src="https://static.javatpoint.com/intellij-idea/images/intellij-idea-tutorial.png"></code>
 
 </p>
