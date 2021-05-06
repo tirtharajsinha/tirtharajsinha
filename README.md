@@ -42,7 +42,7 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 <h3>tools</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
-<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpycharm-logo&psig=AOvVaw3ENlOsW95A8Rr_FSjjITbe&ust=1620373041256000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC-8Y_GtPACFQAAAAAdAAAAABAD"></code>
+<code><img height="40" src="http://assets.stickpng.com/images/58481537cef1014c0b5e4968.png"></code>
 <code><img height="40" src="https://static.javatpoint.com/intellij-idea/images/intellij-idea-tutorial.png"></code>
 
 </p>
