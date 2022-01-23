@@ -19,7 +19,7 @@ Apart from this, I am a music, football, food lover and a casual gamer. I like t
 
 <br/>
 <img align="right" alt="GIF" src="coding.gif?raw=true" width="400" height="250" />
-## My weapons
+<h2 align="center">My weapons</h2>
 <p align="center">
 <h3>Languages</h3>          
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
