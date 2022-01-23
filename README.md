@@ -33,7 +33,7 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://www.seekpng.com/png/detail/70-701539_flask-flask-python-png.png"></code>
 
-
+<img align="right" alt="GIF" src="coding.gif?raw=true" width="400" height="250" />
 <h3>Database</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://www.phpmyadmin.net/static/images/logo.png"></code>
