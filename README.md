@@ -4,8 +4,9 @@ I'm currently pursuing B.Tech Degree@University of Engeering and Management, Kol
 I have experience in Fullstack app & web development, Deep Learning and Computer Vision. My current interests include Generative Modelling, Linux and Modern Web development Frameworks.
 <br>
 Apart from this, I am a music, football, food lover and a casual gamer. I like to spend time reading books. I Love to attend hackathons.
--:dart: Full stack Web developer || Python programmer || mechine learning || computer vision || AI <br>
-<img src="https://icons-for-free.com/iconfiles/png/512/github+logo+social+icon-1320168541937168864.png" height="32px" width="32px"> Open-Source Contributor<br>
+<br>
+-:dart: Full stack developer || mechine learning and Deep learning || computer vision || AI || linux enthusiasticbr>
+
 
 <br>
 <p align = "center">
