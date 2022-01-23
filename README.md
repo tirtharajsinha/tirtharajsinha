@@ -13,7 +13,7 @@ Hi, I'm Tirtharaj Sinha, I'm currently 2nd year B.Tech computer science engineer
 
 
 <br/>
-<img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
+<img align="right" alt="GIF" src="coding.gif?raw=true" width="400" height="250" />
 <h2 align="center">My weapons</h2>
 <p align="center">
 <h3>Languages</h3>          
