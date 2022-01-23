@@ -8,7 +8,7 @@ Apart from this, I am a music, football, food lover and a casual gamer. I like t
 -:dart: Full stack developer || mechine learning and Deep learning || computer vision || AI || linux enthusiasticbr>
 
 
-<br>
+<br><br><br><br>
 <p align = "center" style="margin-top:100px;">
 <img width="60%" height="auto" src="https://github-readme-stats.vercel.app/api?username=tirtharajsinha&show_icons=true&theme=tokyonight" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tirtharajsinha&langs_count=10&hide=jupyter%20notebook,html,css,scss,less&theme=radical&layout=compact">
@@ -19,7 +19,7 @@ Apart from this, I am a music, football, food lover and a casual gamer. I like t
 
 <br/>
 <img align="right" alt="GIF" src="coding.gif?raw=true" width="400" height="250" />
-<h2 align="center">My weapons</h2>
+## My weapons
 <p align="center">
 <h3>Languages</h3>          
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
