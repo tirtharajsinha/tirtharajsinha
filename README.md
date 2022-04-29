@@ -66,7 +66,7 @@ Apart from this, I am a music, football, food lover and a casual gamer. I like t
 [![](https://img.shields.io/badge/-tirtharaj_sinha-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tirtharaj-sinha)](https://www.linkedin.com/in/tirtharaj-sinha)
 [![](https://img.shields.io/badge/-tirtharaj_sinha_-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tirtharaj_sinha_)](https://www.instagram.com/tirtharaj_sinha._)
 [![](https://img.shields.io/badge/-sinhatirtharaj@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tirtharajsinha)](mailto:tirtharajsinha@gmail.com)
-[![](https://img.shields.io/badge/-tirtharajsinha-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tirtharajsinha)
+[![](https://img.shields.io/website?label=website&style=for-the-badge&url=https://tirtharajsinha.github.io)](https://github.com/tirtharajsinha)
 [![](https://img.shields.io/badge/-Tirtharaj_sinha-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sinha_tirtharaj)](https://twitter.com/sinha_tirtharaj)
  
 
