@@ -1,6 +1,10 @@
 <p align="center"><img src="GitHub.png" alt="Tirtharaj Sinha github banner" border="0"></p>
-<h1 style="width:100%; text-align:center;">Hi, I'm Tirtharaj Sinha</h1>
-<h2 style="text-align:center; color:#d9d9d9;">Welcome to my github profile.</h2>
+
+
+
+<br/>
+<h2 align="center">Hi, I/m Tirtharaj Sinha</h2>
+<h4 align="center">>Welcome to my github profile.</h4>
 I'm currently pursuing B.Tech Degree@University of Engeering and Management, Kolkata. My academic background (Bachelors) is in Computer Science.
 <br>
 I have experience in Fullstack app & web development, Deep Learning and Computer Vision. My current interests include Generative Modelling, Linux and Modern Web development Frameworks.
