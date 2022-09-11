@@ -1,4 +1,4 @@
-<p align="center"><img src="wp3082255.jpg" alt="Tirtharaj Sinha github banner" border="0"></p>
+<p align="center"><img src="GitHub.png" alt="Tirtharaj Sinha github banner" border="0"></p>
 I'm currently pursuing B.Tech Degree@University of Engeering and Management, Kolkata. My academic background (Bachelors) is in Computer Science.
 <br>
 I have experience in Fullstack app & web development, Deep Learning and Computer Vision. My current interests include Generative Modelling, Linux and Modern Web development Frameworks.
