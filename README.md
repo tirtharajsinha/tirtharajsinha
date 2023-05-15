@@ -31,7 +31,7 @@ Apart from this, I am a music, football, food lover and a casual gamer. I like t
 <h3>Languages</h3>          
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -44,6 +44,11 @@ Apart from this, I am a music, football, food lover and a casual gamer. I like t
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://www.seekpng.com/png/detail/70-701539_flask-flask-python-png.png"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"></code>
+
+
 
 <img align="right" alt="GIF" src="coding2.gif?raw=true" width="400" height="250" />
 <h3>Database</h3>
@@ -52,6 +57,8 @@ Apart from this, I am a music, football, food lover and a casual gamer. I like t
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4"></code>
+
 
 <h3>tools</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -61,6 +68,11 @@ Apart from this, I am a music, football, food lover and a casual gamer. I like t
 <code><img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/379109?s=200&v=4"></code>
+
+
+
 
 
 </p>
