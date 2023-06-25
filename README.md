@@ -12,15 +12,11 @@ Apart from this, I am a music, football, food lover and a casual gamer. I like t
 
 
 <br><br><br><br>
-<p align = "center" style="margin-top:100px;">  
-  <a href="https://github.com/tirtharajsinha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tirtharajsinha&show_icons=true&theme=dracula" />
-  </a>
+<p align = "center" style="margin-top:100px;">
    <a href="https://github.com/tirtharajsinha">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirtharajsinha&layout=compact&show_icons=true&theme=dracula&hide=jupyter%20notebook,html,css,scss,less" />
   </a>
 </p>
-<a href="https://gitstats.me/tirtharajsinha">View my complete git status</a>
 
 
 
