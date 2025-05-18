@@ -1,14 +1,8 @@
 <p align="center"><img src="GitHub.png" alt="Tirtharaj Sinha github banner" border="0"></p>
 <br/>
 <h2 align="center">Hi, I'm Tirtharaj Sinha</h2>
-<h4 align="center">Welcome to my github profile.</h4>
-I'm currently pursuing B.Tech Degree@University of Engeering and Management, Kolkata. My academic background (Bachelors) is in Computer Science.
-<br>
-I have experience in Fullstack app & web development, Deep Learning and Computer Vision. My current interests include Generative Modelling, Linux and Modern Web development Frameworks.
-<br>
-Apart from this, I am a music, football, food lover and a casual gamer. I like to spend time reading books. I Love to attend hackathons.
-<br><br>
--:dart: Full stack developer || mechine learning and Deep learning || computer vision || AI || linux enthusiastic<br>
+<h4 align="center">I write code.</h4>
+
 
 
 <br><br><br><br>
